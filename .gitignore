@@ -1,0 +1,29 @@
+*.class
+
+#package file
+*.war
+*.ear
+
+#kdiff3
+*.orig
+
+#idea
+.idea/
+/idea/
+*.ipr
+*.iml
+*.iws
+
+#gradle
+.gradle/
+build/
+
+#temp file
+*.log
+*cache
+*.diff
+*.patch
+*.tmp
+
+#system
+Thumbs.db
